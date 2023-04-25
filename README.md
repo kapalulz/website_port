@@ -1,6 +1,7 @@
 # Website-portfolio
 **html css javascript**
 [Live](http://okashuba.link/)
+**Adapted for tablets and phones**
 
 <p align="center">
    <img width="500" height="450" src="https://cdn.discordapp.com/attachments/359470187088576514/1100246497838256219/image.png">
