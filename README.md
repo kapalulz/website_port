@@ -1,6 +1,6 @@
 # Website-portfolio
 **html css javascript**
-[online](http://okashuba.link/)
+[Live](http://okashuba.link/)
 
 <p align="center">
    <img width="500" height="450" src="https://cdn.discordapp.com/attachments/359470187088576514/1100246497838256219/image.png">
